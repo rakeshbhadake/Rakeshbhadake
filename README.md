@@ -21,7 +21,7 @@
 <!-- ===================== ABOUT ===================== -->
 ## 👨‍💻 About Me
 
-I'm **Rakesh Balappa Bhadake**, a **B.E. Computer Science & Engineering** student at **JSS Academy of Technical Education, Bengaluru** (Class of **2027**, CGPA: **8.68**).
+I'm **Rakesh Bhadake**, a **B.E. Computer Science & Engineering** student at **JSS Academy of Technical Education, Bengaluru** (Class of **2027**, CGPA: **8.68**).
 
 - 🚀 Passionate about building **scalable, AI-driven applications** that solve real-world problems.
 - 💻 Interested in **full-stack web development, AI technologies, and open-source software**.
