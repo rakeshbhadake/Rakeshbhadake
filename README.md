@@ -109,12 +109,7 @@ An AI-powered nutrition tracking app that helps users **analyze meals and monito
 
 </div>
 
-<!-- ===================== PERSONAL ===================== -->
-## 🌱 Beyond Coding
 
-- 🌐 **Languages:** Kannada (Native), English (Professional), Hindi (Limited)
-- 💡 **Interests:** Open-source software, cricket, and fitness
-- 🎯 **Hobbies:** Travelling, reading, gaming, movies, music, and gym
 
 <div align="center">
   <h3>💬 Let's Connect & Build Something Meaningful!</h3>
