@@ -100,12 +100,11 @@ An AI-powered nutrition tracking app that helps users **analyze meals and monito
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rakeshbhadake&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshbhadake&layout=compact&theme=tokyonight&hide_border=true" alt="Most used GitHub languages" />
+ 
   <br/>
   <img width="65%" src="https://streak-stats.demolab.com?user=rakeshbhadake&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
   <br/>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rakeshbhadake&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
+ 
 
 </div>
 
